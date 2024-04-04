@@ -8,11 +8,8 @@ public class Program {
 
         int n = sc.nextInt();
 
-        if(n % 2 != 0 && (n < 20 || n > 20)) {
-            System.out.println("Weird"); }
-//        } else if ( n% 2 != 0 && n > 20) {
-//            System.out.println("Weird");
-//        }
+        if(n % 2 != 0 && (n < 20 || n > 20)) System.out.println("Weird");
+
 
         if (n % 2 == 0 ) {
             if(n >= 2 && n <= 5) {
