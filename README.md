@@ -4,7 +4,7 @@ Practicing my coding skills with HackerRank exercises.
 
 ### Language
 
-Java
+- Java
 
 ### Checklist
 
