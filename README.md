@@ -11,7 +11,7 @@ Practicing my coding skills with HackerRank exercises.
 - [x] If-Else
 - [x] Java Stdin and Stdout II
 - [x] Java Output Formatting
-- [ ] Java Loops I
+- [x] Java Loops I
 - [ ] Java Loops II
 - [ ] Java Datatypes
 - [ ] Java End-of-file
